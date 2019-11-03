@@ -208,12 +208,12 @@ body {
 
 
 /************
-========= 3 - Common Styles ========= 
+========= 3 - Common Styles  4817f6 ========= 
 ************/
 
 :root {
     --purple: #a33acb;
-    --blue: #4817f6;
+    --blue: #13648a;
 }
 
 .preloader {
