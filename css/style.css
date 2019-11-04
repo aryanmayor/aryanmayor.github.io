@@ -278,7 +278,7 @@ section {
 .section-heading {
     font-size: 72px;
     font-weight: bold;
-    color: #4817f6;
+    color: var(--blue);
     position: relative;
     opacity: 0
 }
