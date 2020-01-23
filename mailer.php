@@ -25,7 +25,7 @@
         $recipient = "aryan.mayor@gmail.com";
 
         // Set the email subject.
-        $subject = "New Message from ".$personName.' through your website KRIN';
+        $subject = "New Message from ".$personName.' through your website';
 
         // Build the email content.
         $email_content = "Name: $personName\n";
