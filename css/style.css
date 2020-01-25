@@ -969,7 +969,7 @@ footer .kite {
 .footer-left ul li a.value {
     font-size: 25px;
     font-weight: 600;
-    color: #a33acb;
+    color: var(--purple);
     text-decoration: none;
 }
 
